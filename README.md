@@ -13,4 +13,4 @@ Test Edilebilirlik: Her bir katman, diğer katmanlardan izole edilebilir şekild
 
 Onion Architecture, özellikle büyük ölçekli ve kompleks uygulamalar için uygun bir seçenek olabilir çünkü katmanlar arasındaki net sınırlar, kodun bakımını ve genişletilmesini kolaylaştırır.
 
-Projenin demo videosu için Yotube  Linki
+Projenin demo videosu için Yotube  Linki:https://youtu.be/E85rLLTprBA
